@@ -1,0 +1,5 @@
+{
+  "name": "Senior Educational Data Analyst",
+  "description": "An advanced data analysis platform that transforms CSV/XLSX educational data into actionable insights, featuring automatic cleaning, semantic interpretation, and AI-powered chat.",
+  "requestFramePermissions": []
+}
